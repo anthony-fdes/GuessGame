@@ -25,7 +25,7 @@ while chances < 4:
         break
 
 if player == computer:
-    #print("you guesssed the number in " + str(chances) + " tries")
+    print("you guesssed the number in " + str(chances) + " tries")  ##un-commenting this
 
 else:
-    #print("you did not guess the number, the number was " + str(computer))
+    print("you did not guess the number, the number was " + str(computer))  ##un-commenting this
